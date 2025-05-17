@@ -1,11 +1,10 @@
 # Capitalists game
-<img width="1494" alt="Снимок экрана 2025-05-17 в 17 20 13" src="https://github.com/user-attachments/assets/de84e2c2-acfc-46a8-87f3-f5b7e55d4331" />
-<img width="1208" alt="Снимок экрана 2025-05-17 в 17 21 10" src="https://github.com/user-attachments/assets/811a988f-f1db-4d78-9e38-feb48f312c76" />
-<img width="934" alt="Снимок экрана 2025-05-17 в 17 21 32" src="https://github.com/user-attachments/assets/c0090dd4-cd82-477f-b442-a9c18aafca11" />
-<img width="1256" alt="Снимок экрана 2025-05-17 в 17 25 22" src="https://github.com/user-attachments/assets/3d5613aa-1623-4308-9f18-a0b8ef55ffdb" />
-<img width="1260" alt="Снимок экрана 2025-05-17 в 17 25 49" src="https://github.com/user-attachments/assets/2943099a-9eff-4219-85a2-d7fb6c42b218" />
-<img width="1016" alt="Снимок экрана 2025-05-17 в 17 26 04" src="https://github.com/user-attachments/assets/ce673f75-3ef5-4db2-8e6e-30e9ec9bb011" />
-<img width="270" alt="Снимок экрана 2025-05-17 в 17 27 07" src="https://github.com/user-attachments/assets/c060105d-d995-4645-86b8-5c51fd294d4f" />
+<img width="1249" alt="Снимок экрана 2025-05-17 в 17 46 12" src="https://github.com/user-attachments/assets/cec8d4c1-0c20-45cc-a2ef-24d24c2bfddf" />
+<img width="1721" alt="Снимок экрана 2025-05-17 в 17 47 03" src="https://github.com/user-attachments/assets/48ad5f8f-e80b-48d0-8075-27329764bd59" />
+<img width="916" alt="Снимок экрана 2025-05-17 в 17 48 23" src="https://github.com/user-attachments/assets/972bcc8b-91a5-427f-b3a9-e1f4e86f3bb3" />
+<img width="1599" alt="Снимок экрана 2025-05-17 в 17 47 15" src="https://github.com/user-attachments/assets/eeebe11a-a51c-4926-894a-037cf357983a" />
+<img width="478" alt="Снимок экрана 2025-05-17 в 17 47 51" src="https://github.com/user-attachments/assets/8e8c36cc-7fa1-49f0-8df5-0c4e0ff9c95f" />
+
 
 ## Task
 
